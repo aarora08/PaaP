@@ -2,8 +2,6 @@
 
 This is an attempt to write pandas code in OO style. I have been fascinated with Dataclasses in python for a while now and decided to make full use of it within this project. 
 
-###### Warning: This code is not meant to be run! The data used to build these pipeline cannot be publicly posted.
-
 I am making this repository public to showcase the style of writing pandas as a pipeline, hopefully someone makes good use of this. 
 
 The idea is simple, use inheritance to make the code D.R.Y, and alongside, utilize the functionality provided by dataclasses. 
